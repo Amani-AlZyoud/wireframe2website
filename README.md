@@ -4,7 +4,7 @@
 
 * ### **TOOLS ⚙️**
    * **Html  ![](images/html-5.png)**
-   * **Visual Studio Code ![](vs.png)**
+   * **Visual Studio Code ![](images/vs.png)**
    
 
 * ### **Home page** ![home-page](images/home-page.jpg)
